@@ -1,3 +1,3 @@
 <?php
-    echo "Hello World";
+    echo "Added a new feature";
 ?>
